@@ -69,7 +69,7 @@ export default buildConfig({
         },
       ],
       title: "Admin Panel",
-      titleSuffix: "| Mandala SH",
+      titleSuffix: "| Dolan",
     },
     importMap: {
       baseDir: path.resolve(dirname),
